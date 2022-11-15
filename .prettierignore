@@ -1,0 +1,7 @@
+extra/
+out/
+build/
+node_modules/
+.vscode/
+package-*
+cache.json
